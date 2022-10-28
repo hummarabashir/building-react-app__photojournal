@@ -6,6 +6,10 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
+[Coursera.React.Certificate.pdf](https://github.com/hummarabashir/Building-First-React-App---PhotoJournal/files/9891582/Coursera.React.Certificate.pdf)
+
+
 ![photojournal](https://user-images.githubusercontent.com/56365809/198724902-b54e3174-ec43-4a6b-9073-6c808e0089eb.png)
 
 
@@ -14,4 +18,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
-[Coursera React Certificate.pdf](https://github.com/hummarabashir/Building-First-React-App---PhotoJournal/files/9891570/Coursera.React.Certificate.pdf)
